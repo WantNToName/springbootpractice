@@ -13,6 +13,7 @@ public class BeanConfiguration {
         Dog dog = new Dog();
         dog.setAge(2);
         dog.setName("ww");
+        System.out.println("");
         return dog;
     }
 }
