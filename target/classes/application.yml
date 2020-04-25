@@ -1,0 +1,13 @@
+server:
+  port: 8080
+#person:
+#  lastname: zhangshan
+#  age: 18
+#  sex: true
+#  maps: {k1: v1,k2: v2}
+#  list:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: xiaogou
+#    age: 6

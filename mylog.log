@@ -1,0 +1,45 @@
+2020-04-24 === [main] === INFO  === test ==== Starting test on DESKTOP-7E13N18 with PID 276 (started by b_rc in C:\Users\b_rc\Downloads\asdfdsf)
+2020-04-24 === [main] === INFO  === test ==== No active profile set, falling back to default profiles: default
+2020-04-24 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Started test in 1.488 seconds (JVM running for 2.234)
+2020-04-24 === [main] === INFO  === test ==== 这是第一个log信息
+2020-04-24 === [main] === WARN  === test ==== warn
+2020-04-24 === [main] === ERROR === test ==== this third log error infomation
+2020-04-24 === [main] === INFO  === test ==== log name: Logger[test]
+2020-04-24 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Starting test on DESKTOP-7E13N18 with PID 7160 (started by b_rc in C:\Users\b_rc\Downloads\asdfdsf)
+2020-04-24 === [main] === INFO  === test ==== No active profile set, falling back to default profiles: default
+2020-04-24 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Started test in 1.428 seconds (JVM running for 2.143)
+2020-04-24 === [main] === INFO  === test ==== 这是第一个log信息
+2020-04-24 === [main] === WARN  === test ==== warn
+2020-04-24 === [main] === ERROR === test ==== this third log error infomation
+2020-04-24 === [main] === INFO  === test ==== log name: Logger[test]
+2020-04-24 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Starting test on DESKTOP-7E13N18 with PID 7824 (started by b_rc in C:\Users\b_rc\Downloads\asdfdsf)
+2020-04-24 === [main] === INFO  === test ==== No active profile set, falling back to default profiles: default
+2020-04-24 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Started test in 2.629 seconds (JVM running for 3.904)
+2020-04-24 === [main] === INFO  === test ==== 这是第一个log信息
+2020-04-24 === [main] === WARN  === test ==== warn
+2020-04-24 === [main] === ERROR === test ==== this third log error infomation
+2020-04-24 === [main] === INFO  === test ==== log name: Logger[test]
+2020-04-24 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Starting test on DESKTOP-7E13N18 with PID 9136 (started by b_rc in C:\Users\b_rc\Downloads\asdfdsf)
+2020-04-24 === [main] === INFO  === test ==== No active profile set, falling back to default profiles: default
+2020-04-24 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Started test in 2.672 seconds (JVM running for 3.914)
+2020-04-24 === [main] === INFO  === test ==== 这是第一个log信息
+2020-04-24 === [main] === WARN  === test ==== warn
+2020-04-24 === [main] === ERROR === test ==== this third log error infomation
+2020-04-24 === [main] === INFO  === test ==== log name: Logger[test]
+2020-04-24 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Starting test on DESKTOP-7E13N18 with PID 3056 (started by b_rc in C:\Users\b_rc\Downloads\asdfdsf)
+2020-04-24 === [main] === INFO  === test ==== No active profile set, falling back to default profiles: default
+2020-04-24 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 === [main] === INFO  === test ==== Started test in 1.423 seconds (JVM running for 2.122)
+2020-04-24 === [main] === INFO  === test ==== 这是第一个log信息
+2020-04-24 === [main] === WARN  === test ==== warn
+2020-04-24 === [main] === ERROR === test ==== this third log error infomation
+2020-04-24 === [main] === INFO  === test ==== log name: Logger[test]
+2020-04-24 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
